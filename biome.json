@@ -6,16 +6,7 @@
     "useIgnoreFile": false
   },
   "files": {
-    "ignoreUnknown": false,
-    "ignore": [
-      "node_modules",
-      "dist",
-      "coverage",
-      "docs",
-      ".next",
-      ".git",
-      "components/ui/**"
-    ]
+    "ignoreUnknown": false
   },
   "formatter": {
     "enabled": true,
