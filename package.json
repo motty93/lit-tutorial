@@ -1,0 +1,17 @@
+{
+  "name": "lit-tutorial",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@biomejs/biome": "^2.2.4",
+    "@types/bun": "latest",
+    "vite": "^7.1.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "lit": "^3.3.1"
+  }
+}
